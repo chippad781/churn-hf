@@ -87,4 +87,4 @@ streamlit run app.py
 4. The app auto-trains on first cold start — no manual step needed
 
 ---
-Built by [Your Name] · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+Built by Amogh · [LinkedIn](https://www.linkedin.com/in/amogh-kakkanavar-947a72184/) · [GitHub](https://github.com/chippad781)
