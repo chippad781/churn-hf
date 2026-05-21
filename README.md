@@ -52,8 +52,8 @@ churn-prediction/
 
 | Model | Accuracy | ROC-AUC |
 |---|---|---|
-| Random Forest | ~73% | ~0.65 |
-| Logistic Regression | ~74% | ~0.69 |
+| Random Forest | ~72% | ~0.65 |
+| Logistic Regression | ~73% | ~0.68 |
 
 ## 📦 Features
 
